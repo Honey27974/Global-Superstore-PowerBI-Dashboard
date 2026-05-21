@@ -18,7 +18,7 @@ The dashboard is divided into three analytical sections:
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Power Query
-- SQL (Exploratory Data Analysis)
+- MySQL (Exploratory Data Analysis)
 - Data Visualization
 
 ---
@@ -133,9 +133,7 @@ The goal of this project was to transform raw business data into meaningful insi
 
 ---
 
-## 👤 Author
-
-**Your Name**
+## 👤 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/honey-tandel-78669828b/
-- GitHub: [Add Your GitHub Profile Link]
+- GitHub: https://github.com/Honey27974
