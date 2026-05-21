@@ -106,14 +106,21 @@ This page evaluates shipping performance and operational efficiency.
 
 ---
 
+## 📸 Dashboard Screenshots
 
+### Sales Overview
+![Sales Overview](Sales_Overview.png)
 
----
+### Profitability Analysis
+![Profitability Analysis](Profitability_Analysis.png)
+
+### Shipping Analysis
+![Shipping Analysis](Shipping_Analysis.png)
 
 ## 📁 Project Files
 
 - Global_Superstore_Dashboard.pbix
-- Global_Superstore.xlsx
+- Global_Superstore.csv
 - Global_Superstore_SQL_Analysis.sql
 - Dashboard Screenshots
 - README.md
@@ -130,5 +137,5 @@ The goal of this project was to transform raw business data into meaningful insi
 
 **Your Name**
 
-- LinkedIn:https://www.linkedin.com/in/honey-tandel-78669828b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/honey-tandel-78669828b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- GitHub: [Add Your GitHub Profile Link]
