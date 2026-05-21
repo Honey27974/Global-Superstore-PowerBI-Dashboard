@@ -109,13 +109,13 @@ This page evaluates shipping performance and operational efficiency.
 ## 📸 Dashboard Screenshots
 
 ### Sales Overview
-![Sales Overview] Sales_Overview.png
+ Sales_Overview.png
 
 ### Profitability Analysis
-![Profitability Analysis] Profitability_Analysis.png
+ Profitability_Analysis.png
 
 ### Shipping Analysis
-![Shipping Analysis] Shipping_Analysis.png
+ Shipping_Analysis.png
 
 ## 📁 Project Files
 
