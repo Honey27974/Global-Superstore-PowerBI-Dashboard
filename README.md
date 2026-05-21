@@ -137,5 +137,5 @@ The goal of this project was to transform raw business data into meaningful insi
 
 **Your Name**
 
-- LinkedIn: https://www.linkedin.com/in/honey-tandel-78669828b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- LinkedIn: https://www.linkedin.com/in/honey-tandel-78669828b/
 - GitHub: [Add Your GitHub Profile Link]
